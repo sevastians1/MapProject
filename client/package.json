@@ -1,0 +1,29 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:watch": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@react-google-maps/api": "^2.17.0",
+    "axios": "^1.2.0",
+    "google-map-react": "^2.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.4"
+  },
+  "devDependencies": {
+    "@iconify/icons-mdi": "^1.2.34",
+    "@iconify/react": "^4.0.1",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.3"
+  }
+}
