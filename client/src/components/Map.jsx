@@ -85,7 +85,7 @@ const MapContainer = () => {
  
 
     return (
-        <Wrapper apiKey={"AIzaSyB4wGgBeJ9GkxWpGxjDdipNJK0dX1gGC0M"}>
+        <Wrapper apiKey={"plz enter key here"}>
         <MapContainer location={location} zoomLevel={17}/>
       </Wrapper>
     )
