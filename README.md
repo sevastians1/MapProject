@@ -1,13 +1,8 @@
 # MapProject
 
-Will take a US map and provide the ability to create a trip/iternerary, give information by nearby attractions, and place user-placed pushpins with desired places to visit.
+A personal project as the culmination of CodePlatoon curriculum.
 
+A world map web application powered by GoogleMaps API that saved locations you want to visit, gives information about nearby attractions, and provides a trip.
 
-Use Map APIs to display a world map that is able to be zoomed in and returns coordinates on click.
-Mode that enables clicks to be saved as itinerary locations inside of a trip, OR wishlist locations.
-Wishlist locations are displayed on map.
-Itinerary locations are displayed when looking at a trip. 
-Itinerary also has travel time.
-Onclick displays nearby attractions
-APIs:
-Google maps API
+Powered by React in JS (including CSS and html) and Django as a backend. Uses Postgres and SQL for persistent storage.
+
